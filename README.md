@@ -1,3 +1,3 @@
-# MaterialsInformaticsKit
+# Python Materials Genome Engineering Toolkit
 
-Materials Informatics Kit (MIK) is an open-source Python library for materials development.
+PyMGEkit (Python Materials Genome Engineering Toolkit) is an open-source Python library for materials development.
