@@ -1,3 +1,3 @@
 # Python Materials Genome Engineering Toolkit
 
-PyMGEkit (Python Materials Genome Engineering Toolkit) is an open-source Python library for materials informatics studies.
+Pytmge (Python Toolkit for Materials Genome Engineering) is an open-source Python library for materials informatics studies.
